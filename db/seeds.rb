@@ -5,3 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Question.create(title:"What are helpers in Rails?")
+Question.create(title:"What are the looping structures in Ruby?")
+Question.create(title:"What is the difference between an argument and a parameter?")
